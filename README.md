@@ -2,7 +2,7 @@
 
 This a competition app that reads data from a csv and then data is imported and saved into a MySQL database, with the competition name/id used to link to the imported data, the program then asks how many winners are needed and randomly selects the winners from csv records, displaying the results in the console. The results are saved in the database and output to a text file that includes competition details, winners, and contact information. Finally, auditing is added to track all procedures
 
-[![asciicast](https://asciinema.org/a/SWBUANDZUm2RqX4BQgZiXceuY.svg)](https://asciinema.org/a/SWBUANDZUm2RqX4BQgZiXceuY)
+[![asciicast](https://asciinema.org/a/Kkas7EvExn1qKURFVZ831IC9H.svg)](https://asciinema.org/a/Kkas7EvExn1qKURFVZ831IC9H)
 
 ## Installation
 
